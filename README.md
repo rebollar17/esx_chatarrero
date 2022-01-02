@@ -1,2 +1,2 @@
 # esx_chatarrero
-Modificado
+Este Script ha sido modificado por Rebollar#9137
