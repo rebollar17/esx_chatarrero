@@ -3,7 +3,9 @@ Script traducido al Español
 
 # Requeridos
 es_extended (https://github.com/ESX-Org/es_extended)
+
 pNotify (https://github.com/Nick78111/pNotify) 
+
 progressBars (https://github.com/chipsahoy6/progressBars/releases)
 
 # Instalacion
