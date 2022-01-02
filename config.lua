@@ -23,19 +23,19 @@ Config.GiveBlack          = false -- Dar dinero negro
 
 -- Segundos de cada parte
 --  1000 = 1 segundo
-Config.DoorOpenFrontLeftTime      = 1000
-Config.DoorBrokenFrontLeftTime    = 1000
-Config.DoorOpenFrontRightTime     = 1000
-Config.DoorBrokenFrontRightTime   = 1000
-Config.DoorOpenRearLeftTime       = 1000
-Config.DoorBrokenRearLeftTime     = 1000
-Config.DoorOpenRearRightTime      = 1000
-Config.DoorBrokenRearRightTime    = 1000
-Config.DoorOpenHoodTime           = 1000
-Config.DoorBrokenHoodTime         = 1000
-Config.DoorOpenTrunkTime          = 1000
-Config.DoorBrokenTrunkTime        = 1000
-Config.DeletingVehicleTime        = 1000
+Config.DoorOpenFrontLeftTime      = 5000
+Config.DoorBrokenFrontLeftTime    = 7000
+Config.DoorOpenFrontRightTime     = 5000
+Config.DoorBrokenFrontRightTime   = 7000
+Config.DoorOpenRearLeftTime       = 5000
+Config.DoorBrokenRearLeftTime     = 7000
+Config.DoorOpenRearRightTime      = 5000
+Config.DoorBrokenRearRightTime    = 7000
+Config.DoorOpenHoodTime           = 5000
+Config.DoorBrokenHoodTime         = 7000
+Config.DoorOpenTrunkTime          = 5000
+Config.DoorBrokenTrunkTime        = 7000
+Config.DeletingVehicleTime        = 3000
 
 Config.Zones = {
     Chopshop = {coords = vector3(-556.08, -1694.79, 18.23), name = _U('map_blip'), color = 49, sprite = 225, radius = 100.0, Pos = { x = -556.08, y = -1694.79, z = 18.23}, Size  = { x = 2.0, y = 2.0, z = 0.5 }, },
