@@ -1,4 +1,5 @@
 Este Script ha sido modificado por Rebollar#9137
+
 Script traducido al Español
 
 # Requeridos
